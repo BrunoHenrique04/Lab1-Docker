@@ -33,3 +33,13 @@ http://localhost:8080
 ```bash
 docker rm -f lab1-nginx
 ```
+
+
+---
+## Evidencias. 
+Rodando o docker.
+![alt text](image.png)
+
+
+Acessando localHost
+![alt text](image-1.png)
